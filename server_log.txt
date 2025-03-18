@@ -1,0 +1,2255 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:10:34] weburl = "www.sa-mp.com"  (string)
+[21:10:34] 
+[21:10:34] Server Plugins
+[21:10:34] --------------
+[21:10:34]  Loading plugin: mysql
+[21:10:34]  >> plugin.mysql: R41-4 successfully loaded.
+[21:10:34]   Loaded.
+[21:10:34]  Loaded 1 plugins.
+
+[21:10:34] 
+[21:10:34] Filterscripts
+[21:10:34] ---------------
+[21:10:34]   Loaded 0 filterscripts.
+
+[21:10:34] База данных (г) не смогла подключиться. Ошибка: 
+[21:10:34] 
+----------------------------------
+[21:10:34]  MetaLife Online
+[21:10:34] ----------------------------------
+
+[21:10:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:43:45] weburl = "www.sa-mp.com"  (string)
+[15:43:45] 
+[15:43:45] Server Plugins
+[15:43:45] --------------
+[15:43:45]  Loading plugin: mysql
+[15:43:46]  >> plugin.mysql: R41-4 successfully loaded.
+[15:43:46]   Loaded.
+[15:43:46]  Loaded 1 plugins.
+
+[15:43:46] 
+[15:43:46] Filterscripts
+[15:43:46] ---------------
+[15:43:46]   Loaded 0 filterscripts.
+
+[15:43:54] Подключение к базе данных MetaLife не удалось.
+[15:43:54] 
+----------------------------------
+[15:43:54]  MetaLife Online
+[15:43:54] ----------------------------------
+
+[15:43:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:44:45] weburl = "www.sa-mp.com"  (string)
+[15:44:45] 
+[15:44:45] Server Plugins
+[15:44:45] --------------
+[15:44:45]  Loading plugin: mysql
+[15:44:45]  >> plugin.mysql: R41-4 successfully loaded.
+[15:44:45]   Loaded.
+[15:44:45]  Loaded 1 plugins.
+
+[15:44:45] 
+[15:44:45] Filterscripts
+[15:44:45] ---------------
+[15:44:45]   Loaded 0 filterscripts.
+
+[15:44:45] Подключение к базе данных MetaLife не удалось.
+[15:44:45] 
+----------------------------------
+[15:44:45]  MetaLife Online
+[15:44:45] ----------------------------------
+
+[15:44:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:45:10] weburl = "www.sa-mp.com"  (string)
+[15:45:10] 
+[15:45:10] Server Plugins
+[15:45:10] --------------
+[15:45:10]  Loading plugin: mysql
+[15:45:10]  >> plugin.mysql: R41-4 successfully loaded.
+[15:45:10]   Loaded.
+[15:45:10]  Loaded 1 plugins.
+
+[15:45:10] 
+[15:45:10] Filterscripts
+[15:45:10] ---------------
+[15:45:10]   Loaded 0 filterscripts.
+
+[15:45:10] Подключение к базе данных MetaLife не удалось.
+[15:45:10] 
+----------------------------------
+[15:45:10]  MetaLife Online
+[15:45:10] ----------------------------------
+
+[15:45:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:32:18] weburl = "www.sa-mp.com"  (string)
+[18:32:18] 
+[18:32:18] Server Plugins
+[18:32:18] --------------
+[18:32:18]  Loading plugin: mysql
+[18:32:18]  >> plugin.mysql: R41-4 successfully loaded.
+[18:32:18]   Loaded.
+[18:32:18]  Loaded 1 plugins.
+
+[18:32:18] 
+[18:32:18] Filterscripts
+[18:32:18] ---------------
+[18:32:18]   Loaded 0 filterscripts.
+
+[18:32:18] Подключение к базе данных MetaLife не удалось.
+[18:32:18] 
+----------------------------------
+[18:32:18]  MetaLife Online
+[18:32:18] ----------------------------------
+
+[18:32:18] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:33:24] weburl = "www.sa-mp.com"  (string)
+[18:33:24] 
+[18:33:24] Server Plugins
+[18:33:24] --------------
+[18:33:24]  Loading plugin: mysql
+[18:33:24]  >> plugin.mysql: R41-4 successfully loaded.
+[18:33:24]   Loaded.
+[18:33:24]  Loaded 1 plugins.
+
+[18:33:25] 
+[18:33:25] Filterscripts
+[18:33:25] ---------------
+[18:33:25]   Loaded 0 filterscripts.
+
+[18:33:25] Подключение к базе данных MetaLife не удалось.
+[18:33:25] 
+----------------------------------
+[18:33:25]  MetaLife Online
+[18:33:25] ----------------------------------
+
+[18:33:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:48:54] weburl = "www.sa-mp.com"  (string)
+[18:48:54] 
+[18:48:54] Server Plugins
+[18:48:54] --------------
+[18:48:54]  Loading plugin: mysql
+[18:48:54]  >> plugin.mysql: R41-4 successfully loaded.
+[18:48:54]   Loaded.
+[18:48:54]  Loaded 1 plugins.
+
+[18:48:54] I couldn't load any gamemode scripts. Please verify your server.cfg
+[18:48:54] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:01:43] weburl = "www.sa-mp.com"  (string)
+[19:01:43] 
+[19:01:43] Server Plugins
+[19:01:43] --------------
+[19:01:43]  Loading plugin: mysql
+[19:01:43]  >> plugin.mysql: R41-4 successfully loaded.
+[19:01:43]   Loaded.
+[19:01:43]  Loaded 1 plugins.
+
+[19:01:43] 
+[19:01:43] Filterscripts
+[19:01:43] ---------------
+[19:01:43]   Loaded 0 filterscripts.
+
+[19:01:43] Подключение к базе данных metalife успешно
+[19:01:43] 
+----------------------------------
+[19:01:43]  MetaLife Online
+[19:01:43] ----------------------------------
+
+[19:01:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:05:05] weburl = "www.sa-mp.com"  (string)
+[19:05:05] 
+[19:05:05] Server Plugins
+[19:05:05] --------------
+[19:05:05]  Loading plugin: mysql
+[19:05:05]  >> plugin.mysql: R41-4 successfully loaded.
+[19:05:05]   Loaded.
+[19:05:05]  Loaded 1 plugins.
+
+[19:05:05] 
+[19:05:05] Filterscripts
+[19:05:05] ---------------
+[19:05:05]   Loaded 0 filterscripts.
+
+[19:05:05] Подключение к базе данных proverka не удалось.
+[19:05:05] 
+----------------------------------
+[19:05:05]  MetaLife Online
+[19:05:05] ----------------------------------
+
+[19:05:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:05:41] weburl = "www.sa-mp.com"  (string)
+[19:05:41] 
+[19:05:41] Server Plugins
+[19:05:41] --------------
+[19:05:41]  Loading plugin: mysql
+[19:05:41]  >> plugin.mysql: R41-4 successfully loaded.
+[19:05:41]   Loaded.
+[19:05:41]  Loaded 1 plugins.
+
+[19:05:41] 
+[19:05:41] Filterscripts
+[19:05:41] ---------------
+[19:05:41]   Loaded 0 filterscripts.
+
+[19:05:41] Подключение к базе данных proverka не удалось.
+[19:05:41] 
+----------------------------------
+[19:05:41]  MetaLife Online
+[19:05:41] ----------------------------------
+
+[19:05:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:06:37] weburl = "www.sa-mp.com"  (string)
+[19:06:37] 
+[19:06:37] Server Plugins
+[19:06:37] --------------
+[19:06:37]  Loading plugin: mysql
+[19:06:37]  >> plugin.mysql: R41-4 successfully loaded.
+[19:06:37]   Loaded.
+[19:06:37]  Loaded 1 plugins.
+
+[19:06:37] 
+[19:06:37] Filterscripts
+[19:06:37] ---------------
+[19:06:37]   Loaded 0 filterscripts.
+
+[19:06:53] Подключение к базе данных metalife не удалось.
+[19:06:53] 
+----------------------------------
+[19:06:53]  MetaLife Online
+[19:06:53] ----------------------------------
+
+[19:06:53] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:07:10] weburl = "www.sa-mp.com"  (string)
+[19:07:10] 
+[19:07:10] Server Plugins
+[19:07:10] --------------
+[19:07:10]  Loading plugin: mysql
+[19:07:11]  >> plugin.mysql: R41-4 successfully loaded.
+[19:07:11]   Loaded.
+[19:07:11]  Loaded 1 plugins.
+
+[19:07:11] 
+[19:07:11] Filterscripts
+[19:07:11] ---------------
+[19:07:11]   Loaded 0 filterscripts.
+
+[19:07:11] Подключение к базе данных metalife успешно
+[19:07:11] 
+----------------------------------
+[19:07:11]  MetaLife Online
+[19:07:11] ----------------------------------
+
+[19:07:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:06:13] weburl = "www.sa-mp.com"  (string)
+[20:06:13] 
+[20:06:13] Server Plugins
+[20:06:13] --------------
+[20:06:13]  Loading plugin: mysql
+[20:06:13]  >> plugin.mysql: R41-4 successfully loaded.
+[20:06:13]   Loaded.
+[20:06:13]  Loaded 1 plugins.
+
+[20:06:13] 
+[20:06:13] Filterscripts
+[20:06:13] ---------------
+[20:06:13]   Loaded 0 filterscripts.
+
+[20:06:13] Подключение к базе данных metalife успешно
+[20:06:13] 
+----------------------------------
+[20:06:13]  MetaLife Online
+[20:06:13] ----------------------------------
+
+[20:06:13] Number of vehicle models: 0
+[20:06:44] [connection] incoming connection: 127.0.0.1:49766 id: 0
+[20:06:44] [join] Devs_dev has joined the server (0:127.0.0.1)
+[20:07:45] [part] Devs_dev has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:01:46] weburl = "www.sa-mp.com"  (string)
+[21:01:46] 
+[21:01:46] Server Plugins
+[21:01:46] --------------
+[21:01:46]  Loading plugin: mysql
+[21:01:46]  >> plugin.mysql: R41-4 successfully loaded.
+[21:01:46]   Loaded.
+[21:01:46]  Loaded 1 plugins.
+
+[21:01:46] 
+[21:01:46] Filterscripts
+[21:01:46] ---------------
+[21:01:46]   Loaded 0 filterscripts.
+
+[21:01:46] Подключение к базе данных metalife успешно
+[21:01:46] 
+----------------------------------
+[21:01:46]  MetaLife Online
+[21:01:46] ----------------------------------
+
+[21:01:46] Number of vehicle models: 0
+[21:02:16] [connection] incoming connection: 127.0.0.1:54632 id: 0
+[21:02:16] [join] Devs_dev has joined the server (0:127.0.0.1)
+[21:04:27] [part] Devs_dev has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:09:21] weburl = "www.sa-mp.com"  (string)
+[21:09:21] 
+[21:09:21] Server Plugins
+[21:09:21] --------------
+[21:09:21]  Loading plugin: mysql
+[21:09:21]  >> plugin.mysql: R41-4 successfully loaded.
+[21:09:21]   Loaded.
+[21:09:21]  Loaded 1 plugins.
+
+[21:09:21] 
+[21:09:21] Filterscripts
+[21:09:21] ---------------
+[21:09:21]   Loaded 0 filterscripts.
+
+[21:09:21] Подключение к базе данных metalife успешно
+[21:09:21] 
+----------------------------------
+[21:09:21]  MetaLife Online
+[21:09:21] ----------------------------------
+
+[21:09:21] Number of vehicle models: 0
+[21:09:45] [connection] incoming connection: 127.0.0.1:52440 id: 0
+[21:09:45] [join] Devs_dev has joined the server (0:127.0.0.1)
+[21:10:15] [part] Devs_dev has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:11:42] weburl = "www.sa-mp.com"  (string)
+[21:11:42] 
+[21:11:42] Server Plugins
+[21:11:42] --------------
+[21:11:42]  Loading plugin: mysql
+[21:11:42]  >> plugin.mysql: R41-4 successfully loaded.
+[21:11:42]   Loaded.
+[21:11:42]  Loaded 1 plugins.
+
+[21:11:42] 
+[21:11:42] Filterscripts
+[21:11:42] ---------------
+[21:11:42]   Loaded 0 filterscripts.
+
+[21:11:42] Подключение к базе данных metalife успешно
+[21:11:42] 
+----------------------------------
+[21:11:42]  MetaLife Online
+[21:11:42] ----------------------------------
+
+[21:11:42] Number of vehicle models: 0
+[21:12:09] [connection] incoming connection: 127.0.0.1:51578 id: 0
+[21:12:09] [join] Devs_dev has joined the server (0:127.0.0.1)
+[21:12:23] [part] Devs_dev has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:18:46] weburl = "www.sa-mp.com"  (string)
+[21:18:46] 
+[21:18:46] Server Plugins
+[21:18:46] --------------
+[21:18:46]  Loading plugin: mysql
+[21:18:46]  >> plugin.mysql: R41-4 successfully loaded.
+[21:18:46]   Loaded.
+[21:18:46]  Loaded 1 plugins.
+
+[21:18:46] 
+[21:18:46] Filterscripts
+[21:18:46] ---------------
+[21:18:46]   Loaded 0 filterscripts.
+
+[21:18:46] Подключение к базе данных metalife успешно
+[21:18:46] 
+----------------------------------
+[21:18:46]  MetaLife Online
+[21:18:46] ----------------------------------
+
+[21:18:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:28:57] weburl = "www.sa-mp.com"  (string)
+[21:28:57] 
+[21:28:57] Server Plugins
+[21:28:57] --------------
+[21:28:57]  Loading plugin: mysql
+[21:28:57]  >> plugin.mysql: R41-4 successfully loaded.
+[21:28:57]   Loaded.
+[21:28:57]  Loaded 1 plugins.
+
+[21:28:57] 
+[21:28:57] Filterscripts
+[21:28:57] ---------------
+[21:28:57]   Loaded 0 filterscripts.
+
+[21:28:57] Подключение к базе данных metalife успешно
+[21:28:57] 
+----------------------------------
+[21:28:57]  MetaLife Online
+[21:28:57] ----------------------------------
+
+[21:28:57] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:30:48] weburl = "www.sa-mp.com"  (string)
+[21:30:48] 
+[21:30:48] Server Plugins
+[21:30:48] --------------
+[21:30:48]  Loading plugin: mysql
+[21:30:48]  >> plugin.mysql: R41-4 successfully loaded.
+[21:30:48]   Loaded.
+[21:30:48]  Loaded 1 plugins.
+
+[21:30:49] 
+[21:30:49] Filterscripts
+[21:30:49] ---------------
+[21:30:49]   Loaded 0 filterscripts.
+
+[21:30:49] Подключение к базе данных metalife успешно
+[21:30:49] 
+----------------------------------
+[21:30:49]  MetaLife Online
+[21:30:49] ----------------------------------
+
+[21:30:49] Number of vehicle models: 0
+[21:32:05] [connection] incoming connection: 127.0.0.1:54702 id: 0
+[21:32:10] [join] Devs_dev has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:33:27] weburl = "www.sa-mp.com"  (string)
+[21:33:27] 
+[21:33:27] Server Plugins
+[21:33:27] --------------
+[21:33:27]  Loading plugin: mysql
+[21:33:27]  >> plugin.mysql: R41-4 successfully loaded.
+[21:33:27]   Loaded.
+[21:33:27]  Loaded 1 plugins.
+
+[21:33:27] 
+[21:33:27] Filterscripts
+[21:33:27] ---------------
+[21:33:27]   Loaded 0 filterscripts.
+
+[21:33:27] Подключение к базе данных metalife успешно
+[21:33:27] 
+----------------------------------
+[21:33:27]  MetaLife Online
+[21:33:27] ----------------------------------
+
+[21:33:27] Number of vehicle models: 0
+[21:36:15] [connection] incoming connection: 127.0.0.1:60929 id: 0
+[21:36:16] [join] Devs_dev has joined the server (0:127.0.0.1)
+[21:37:48] [part] Devs_dev has left the server (0:1)
+[21:42:32] [connection] incoming connection: 127.0.0.1:52762 id: 0
+[21:42:32] [join] Devs_dev has joined the server (0:127.0.0.1)
+[21:43:01] [part] Devs_dev has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:39:46] weburl = "www.sa-mp.com"  (string)
+[20:39:46] 
+[20:39:46] Server Plugins
+[20:39:46] --------------
+[20:39:46]  Loading plugin: mysql
+[20:39:46]  >> plugin.mysql: R41-4 successfully loaded.
+[20:39:46]   Loaded.
+[20:39:46]  Loaded 1 plugins.
+
+[20:39:46] 
+[20:39:46] Filterscripts
+[20:39:46] ---------------
+[20:39:46]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:40:14] weburl = "www.sa-mp.com"  (string)
+[20:40:14] 
+[20:40:14] Server Plugins
+[20:40:14] --------------
+[20:40:14]  Loading plugin: mysql
+[20:40:14]  >> plugin.mysql: R41-4 successfully loaded.
+[20:40:14]   Loaded.
+[20:40:14]  Loaded 1 plugins.
+
+[20:40:14] 
+[20:40:14] Filterscripts
+[20:40:14] ---------------
+[20:40:14]   Loaded 0 filterscripts.
+
+[20:40:14] Подключение к базе данных metalife успешно
+[20:40:14] 
+----------------------------------
+[20:40:14]  MetaLife Online
+[20:40:14] ----------------------------------
+
+[20:40:14] Number of vehicle models: 0
+[20:40:45] [connection] incoming connection: 127.0.0.1:64660 id: 0
+[20:40:46] [join] Devs_dev has joined the server (0:127.0.0.1)
+[20:41:00] [death] Devs_dev died 54
+[20:41:07] [death] Devs_dev died 54
+[20:41:39] [part] Devs_dev has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:05:11] weburl = "www.sa-mp.com"  (string)
+[14:05:11] 
+[14:05:11] Server Plugins
+[14:05:11] --------------
+[14:05:11]  Loading plugin: mysql
+[14:05:11]  >> plugin.mysql: R41-4 successfully loaded.
+[14:05:11]   Loaded.
+[14:05:11]  Loaded 1 plugins.
+
+[14:05:11] 
+[14:05:11] Filterscripts
+[14:05:11] ---------------
+[14:05:11]   Loaded 0 filterscripts.
+
+[14:05:11] Подключение к базе данных metalife успешно
+[14:05:11] 
+----------------------------------
+[14:05:11]  MetaLife Online
+[14:05:11] ----------------------------------
+
+[14:05:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:35:06] weburl = "www.sa-mp.com"  (string)
+[19:35:06] 
+[19:35:06] Server Plugins
+[19:35:06] --------------
+[19:35:06]  Loading plugin: mysql
+[19:35:06]  >> plugin.mysql: R41-4 successfully loaded.
+[19:35:06]   Loaded.
+[19:35:06]  Loaded 1 plugins.
+
+[19:35:06] 
+[19:35:06] Filterscripts
+[19:35:06] ---------------
+[19:35:06]   Loaded 0 filterscripts.
+
+[19:35:07] Подключение к базе данных gs80525 успешно
+[19:35:07] 
+----------------------------------
+[19:35:07]  MetaLife Online
+[19:35:07] ----------------------------------
+
+[19:35:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:43:54] weburl = "www.sa-mp.com"  (string)
+[19:43:54] 
+[19:43:54] Server Plugins
+[19:43:54] --------------
+[19:43:54]  Loading plugin: mysql
+[19:43:54]  >> plugin.mysql: R41-4 successfully loaded.
+[19:43:54]   Loaded.
+[19:43:54]  Loaded 1 plugins.
+
+[19:43:54] 
+[19:43:54] Filterscripts
+[19:43:54] ---------------
+[19:43:54]   Loaded 0 filterscripts.
+
+[19:43:55] Подключение к базе данных gs80525 успешно
+[19:43:55] 
+----------------------------------
+[19:43:55]  MetaLife Online
+[19:43:55] ----------------------------------
+
+[19:43:55] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:49:30] weburl = "www.sa-mp.com"  (string)
+[19:49:30] 
+[19:49:30] Server Plugins
+[19:49:30] --------------
+[19:49:30]  Loading plugin: mysql
+[19:49:30]  >> plugin.mysql: R41-4 successfully loaded.
+[19:49:30]   Loaded.
+[19:49:30]  Loaded 1 plugins.
+
+[19:49:30] 
+[19:49:30] Filterscripts
+[19:49:30] ---------------
+[19:49:30]   Loaded 0 filterscripts.
+
+[19:49:31] Подключение к базе данных gs80525 успешно
+[19:49:31] 
+----------------------------------
+[19:49:31]  MetaLife Online
+[19:49:31] ----------------------------------
+
+[19:49:31] Number of vehicle models: 0
+[20:06:35] [connection] incoming connection: 127.0.0.1:61439 id: 0
+[20:06:35] [join] Devs_Dev has joined the server (0:127.0.0.1)
+[20:11:19] [part] Devs_Dev has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:22:22] weburl = "www.sa-mp.com"  (string)
+[20:22:22] 
+[20:22:22] Server Plugins
+[20:22:22] --------------
+[20:22:22]  Loading plugin: mysql
+[20:22:22]  >> plugin.mysql: R41-4 successfully loaded.
+[20:22:22]   Loaded.
+[20:22:22]  Loaded 1 plugins.
+
+[20:22:22] 
+[20:22:22] Filterscripts
+[20:22:22] ---------------
+[20:22:22]   Loaded 0 filterscripts.
+
+[20:22:23] Подключение к базе данных gs80525 успешно
+[20:22:23] 
+----------------------------------
+[20:22:23]  MetaLife Online
+[20:22:23] ----------------------------------
+
+[20:22:23] Number of vehicle models: 0
+[20:22:49] [connection] incoming connection: 127.0.0.1:61648 id: 0
+[20:22:49] [join] Devs_Dev has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:31:40] weburl = "www.sa-mp.com"  (string)
+[20:31:40] 
+[20:31:40] Server Plugins
+[20:31:40] --------------
+[20:31:40]  Loading plugin: mysql
+[20:31:40]  >> plugin.mysql: R41-4 successfully loaded.
+[20:31:40]   Loaded.
+[20:31:40]  Loaded 1 plugins.
+
+[20:31:40] 
+[20:31:40] Filterscripts
+[20:31:40] ---------------
+[20:31:40]   Loaded 0 filterscripts.
+
+[20:31:41] Подключение к базе данных gs80525 успешно
+[20:31:41] 
+----------------------------------
+[20:31:41]  MetaLife Online
+[20:31:41] ----------------------------------
+
+[20:31:41] Number of vehicle models: 0
+[20:32:09] [connection] incoming connection: 127.0.0.1:57670 id: 0
+[20:32:09] [join] Devs_Dev has joined the server (0:127.0.0.1)
+[20:33:51] [part] Devs_Dev has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:34:05] weburl = "www.sa-mp.com"  (string)
+[20:34:05] 
+[20:34:05] Server Plugins
+[20:34:05] --------------
+[20:34:05]  Loading plugin: mysql
+[20:34:05]  >> plugin.mysql: R41-4 successfully loaded.
+[20:34:05]   Loaded.
+[20:34:05]  Loaded 1 plugins.
+
+[20:34:05] 
+[20:34:05] Filterscripts
+[20:34:05] ---------------
+[20:34:05]   Loaded 0 filterscripts.
+
+[20:34:05] Подключение к базе данных gs80525 успешно
+[20:34:05] 
+----------------------------------
+[20:34:05]  MetaLife Online
+[20:34:05] ----------------------------------
+
+[20:34:05] Number of vehicle models: 0
+[20:34:25] [connection] incoming connection: 127.0.0.1:63474 id: 0
+[20:34:25] [join] Devs_Dev has joined the server (0:127.0.0.1)
+[20:34:38] [part] Devs_Dev has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:51:22] weburl = "www.sa-mp.com"  (string)
+[20:51:22] 
+[20:51:22] Server Plugins
+[20:51:22] --------------
+[20:51:22]  Loading plugin: mysql
+[20:51:22]  >> plugin.mysql: R41-4 successfully loaded.
+[20:51:22]   Loaded.
+[20:51:22]  Loaded 1 plugins.
+
+[20:51:22] 
+[20:51:22] Filterscripts
+[20:51:22] ---------------
+[20:51:22]   Loaded 0 filterscripts.
+
+[20:51:23] Подключение к базе данных gs80525 успешно
+[20:51:23] 
+----------------------------------
+[20:51:23]  MetaLife Online
+[20:51:23] ----------------------------------
+
+[20:51:23] Number of vehicle models: 0
+[20:51:46] [connection] incoming connection: 127.0.0.1:59004 id: 0
+[20:51:47] [join] Devs_Dev has joined the server (0:127.0.0.1)
+[20:52:24] [part] Devs_Dev has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:57:11] weburl = "www.sa-mp.com"  (string)
+[20:57:11] 
+[20:57:11] Server Plugins
+[20:57:11] --------------
+[20:57:11]  Loading plugin: mysql
+[20:57:11]  >> plugin.mysql: R41-4 successfully loaded.
+[20:57:11]   Loaded.
+[20:57:11]  Loaded 1 plugins.
+
+[20:57:11] 
+[20:57:11] Filterscripts
+[20:57:11] ---------------
+[20:57:11]   Loaded 0 filterscripts.
+
+[20:57:12] Подключение к базе данных gs80525 успешно
+[20:57:12] 
+----------------------------------
+[20:57:12]  MetaLife Online
+[20:57:12] ----------------------------------
+
+[20:57:12] Number of vehicle models: 1
+[20:57:32] [connection] incoming connection: 127.0.0.1:60036 id: 0
+[20:57:33] [join] Devs_Dev has joined the server (0:127.0.0.1)
+[20:58:28] [part] Devs_Dev has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:05:23] weburl = "www.sa-mp.com"  (string)
+[22:05:23] 
+[22:05:23] Server Plugins
+[22:05:23] --------------
+[22:05:23]  Loading plugin: mysql
+[22:05:23]  >> plugin.mysql: R41-4 successfully loaded.
+[22:05:23]   Loaded.
+[22:05:23]  Loaded 1 plugins.
+
+[22:05:23] 
+[22:05:23] Filterscripts
+[22:05:23] ---------------
+[22:05:23]   Loaded 0 filterscripts.
+
+[22:05:24] Подключение к базе данных gs80525 успешно
+[22:05:24] 
+----------------------------------
+[22:05:24]  MetaLife Online
+[22:05:24] ----------------------------------
+
+[22:05:24] Number of vehicle models: 1
+[22:06:08] [connection] incoming connection: 127.0.0.1:54348 id: 0
+[22:06:08] [join] Devs_Dev has joined the server (0:127.0.0.1)
+[22:07:38] [part] Devs_Dev has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:13:36] weburl = "www.sa-mp.com"  (string)
+[22:13:36] 
+[22:13:36] Server Plugins
+[22:13:36] --------------
+[22:13:36]  Loading plugin: mysql
+[22:13:36]  >> plugin.mysql: R41-4 successfully loaded.
+[22:13:37]   Loaded.
+[22:13:37]  Loaded 1 plugins.
+
+[22:13:37] 
+[22:13:37] Filterscripts
+[22:13:37] ---------------
+[22:13:37]   Loaded 0 filterscripts.
+
+[22:13:37] Подключение к базе данных gs80525 успешно
+[22:13:37] 
+----------------------------------
+[22:13:37]  MetaLife Online
+[22:13:37] ----------------------------------
+
+[22:13:37] Number of vehicle models: 1
+[22:15:41] [connection] incoming connection: 127.0.0.1:52151 id: 0
+[22:15:41] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[22:17:12] [part] Tommi_Escobar has left the server (0:1)
+[22:18:01] [connection] incoming connection: 127.0.0.1:62081 id: 0
+[22:18:02] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[22:18:15] [part] Tommi_Escobar has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:21:02] weburl = "www.sa-mp.com"  (string)
+[22:21:02] 
+[22:21:02] Server Plugins
+[22:21:02] --------------
+[22:21:02]  Loading plugin: mysql
+[22:21:02]  >> plugin.mysql: R41-4 successfully loaded.
+[22:21:02]   Loaded.
+[22:21:02]  Loaded 1 plugins.
+
+[22:21:02] 
+[22:21:02] Filterscripts
+[22:21:02] ---------------
+[22:21:02]   Loaded 0 filterscripts.
+
+[22:21:02] Подключение к базе данных gs80525 успешно
+[22:21:02] 
+----------------------------------
+[22:21:02]  MetaLife Online
+[22:21:02] ----------------------------------
+
+[22:21:02] Number of vehicle models: 1
+[22:22:01] [connection] incoming connection: 127.0.0.1:60439 id: 0
+[22:22:01] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[22:22:49] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:24:57] weburl = "www.sa-mp.com"  (string)
+[22:24:57] 
+[22:24:57] Server Plugins
+[22:24:57] --------------
+[22:24:57]  Loading plugin: mysql
+[22:24:57]  >> plugin.mysql: R41-4 successfully loaded.
+[22:24:57]   Loaded.
+[22:24:57]  Loaded 1 plugins.
+
+[22:24:57] 
+[22:24:57] Filterscripts
+[22:24:57] ---------------
+[22:24:57]   Loaded 0 filterscripts.
+
+[22:24:57] Подключение к базе данных gs80525 успешно
+[22:24:57] 
+----------------------------------
+[22:24:57]  MetaLife Online
+[22:24:57] ----------------------------------
+
+[22:24:57] Number of vehicle models: 1
+[22:25:19] [connection] incoming connection: 127.0.0.1:60692 id: 0
+[22:25:19] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[22:25:53] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:24:10] weburl = "www.sa-mp.com"  (string)
+[19:24:10] 
+[19:24:10] Server Plugins
+[19:24:10] --------------
+[19:24:10]  Loading plugin: mysql
+[19:24:10]  >> plugin.mysql: R41-4 successfully loaded.
+[19:24:10]   Loaded.
+[19:24:10]  Loaded 1 plugins.
+
+[19:24:10] 
+[19:24:10] Filterscripts
+[19:24:10] ---------------
+[19:24:10]   Loaded 0 filterscripts.
+
+[19:24:10] Подключение к базе данных metalife успешно
+[19:24:10] 
+----------------------------------
+[19:24:10]  MetaLife Online
+[19:24:10] ----------------------------------
+
+[19:24:10] Number of vehicle models: 1
+[19:26:12] [connection] incoming connection: 127.0.0.1:59946 id: 0
+[19:26:12] [join] Sasha_Belew has joined the server (0:127.0.0.1)
+[19:27:50] [part] Sasha_Belew has left the server (0:1)
+Console input: rcon exit 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:46:20] weburl = "www.sa-mp.com"  (string)
+[19:46:20] 
+[19:46:20] Server Plugins
+[19:46:20] --------------
+[19:46:20]  Loading plugin: mysql
+[19:46:20]  >> plugin.mysql: R41-4 successfully loaded.
+[19:46:20]   Loaded.
+[19:46:20]  Loaded 1 plugins.
+
+[19:46:20] 
+[19:46:20] Filterscripts
+[19:46:20] ---------------
+[19:46:20]   Loaded 0 filterscripts.
+
+[19:46:20] Подключение к базе данных metalife успешно
+[19:46:20] 
+----------------------------------
+[19:46:20]  MetaLife Online
+[19:46:20] ----------------------------------
+
+[19:46:20] Number of vehicle models: 1
+[19:49:49] [connection] incoming connection: 127.0.0.1:60592 id: 0
+[19:49:49] [join] Sasha_Belew has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:50:58] weburl = "www.sa-mp.com"  (string)
+[19:50:58] 
+[19:50:58] Server Plugins
+[19:50:58] --------------
+[19:50:58]  Loading plugin: mysql
+[19:50:58]  >> plugin.mysql: R41-4 successfully loaded.
+[19:50:58]   Loaded.
+[19:50:58]  Loaded 1 plugins.
+
+[19:50:58] 
+[19:50:58] Filterscripts
+[19:50:58] ---------------
+[19:50:58]   Loaded 0 filterscripts.
+
+[19:50:58] Подключение к базе данных metalife успешно
+[19:50:58] 
+----------------------------------
+[19:50:58]  MetaLife Online
+[19:50:58] ----------------------------------
+
+[19:50:58] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:00] weburl = "www.sa-mp.com"  (string)
+[20:07:00] 
+[20:07:00] Server Plugins
+[20:07:00] --------------
+[20:07:00]  Loading plugin: mysql
+[20:07:00]  >> plugin.mysql: R41-4 successfully loaded.
+[20:07:00]   Loaded.
+[20:07:00]  Loaded 1 plugins.
+
+[20:07:00] 
+[20:07:00] Filterscripts
+[20:07:00] ---------------
+[20:07:00]   Loaded 0 filterscripts.
+
+[20:07:00] Подключение к базе данных metalife успешно
+[20:07:00] 
+----------------------------------
+[20:07:00]  MetaLife Online
+[20:07:00] ----------------------------------
+
+[20:07:00] Number of vehicle models: 1
+[20:07:24] [connection] incoming connection: 127.0.0.1:52153 id: 0
+[20:07:24] [join] Sasha_Belew has joined the server (0:127.0.0.1)
+[20:10:56] [part] Sasha_Belew has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:25:06] weburl = "www.sa-mp.com"  (string)
+[21:25:06] 
+[21:25:06] Server Plugins
+[21:25:06] --------------
+[21:25:06]  Loading plugin: mysql
+[21:25:07]  >> plugin.mysql: R41-4 successfully loaded.
+[21:25:07]   Loaded.
+[21:25:07]  Loaded 1 plugins.
+
+[21:25:07] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:25:07] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:25:20] weburl = "www.sa-mp.com"  (string)
+[21:25:20] 
+[21:25:20] Server Plugins
+[21:25:20] --------------
+[21:25:20]  Loading plugin: mysql
+[21:25:20]  >> plugin.mysql: R41-4 successfully loaded.
+[21:25:20]   Loaded.
+[21:25:20]  Loaded 1 plugins.
+
+[21:25:20] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:25:20] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:26:03] weburl = "www.sa-mp.com"  (string)
+[21:26:03] 
+[21:26:03] Server Plugins
+[21:26:03] --------------
+[21:26:03]  Loading plugin: mysql
+[21:26:03]  >> plugin.mysql: R41-4 successfully loaded.
+[21:26:03]   Loaded.
+[21:26:03]  Loaded 1 plugins.
+
+[21:26:03] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:26:03] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:26:42] weburl = "www.sa-mp.com"  (string)
+[21:26:42] 
+[21:26:42] Server Plugins
+[21:26:42] --------------
+[21:26:42]  Loading plugin: mysql
+[21:26:42]  >> plugin.mysql: R41-4 successfully loaded.
+[21:26:42]   Loaded.
+[21:26:42]  Loaded 1 plugins.
+
+[21:26:42] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:26:42] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:32:20] weburl = "www.sa-mp.com"  (string)
+[21:32:20] 
+[21:32:20] Server Plugins
+[21:32:20] --------------
+[21:32:20]  Loading plugin: mysql
+[21:32:20]  >> plugin.mysql: R41-4 successfully loaded.
+[21:32:20]   Loaded.
+[21:32:20]  Loaded 1 plugins.
+
+[21:32:20] 
+[21:32:20] Filterscripts
+[21:32:20] ---------------
+[21:32:20]   Loaded 0 filterscripts.
+
+[21:32:20] Подключение к базе данных metalife успешно
+[21:32:20] 
+----------------------------------
+[21:32:20]  MetaLife Online
+[21:32:20] ----------------------------------
+
+[21:32:20] Number of vehicle models: 1
+[21:33:05] [connection] incoming connection: 127.0.0.1:51267 id: 0
+[21:33:05] [join] Sasha_Belew has joined the server (0:127.0.0.1)
+[21:34:31] [part] Sasha_Belew has left the server (0:1)
+[21:34:54] [connection] incoming connection: 127.0.0.1:57441 id: 0
+[21:34:54] [join] Sasha_Belew has joined the server (0:127.0.0.1)
+[21:35:19] [part] Sasha_Belew has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:37:05] weburl = "www.sa-mp.com"  (string)
+[21:37:05] 
+[21:37:05] Server Plugins
+[21:37:05] --------------
+[21:37:05]  Loading plugin: mysql
+[21:37:05]  >> plugin.mysql: R41-4 successfully loaded.
+[21:37:05]   Loaded.
+[21:37:05]  Loaded 1 plugins.
+
+[21:37:05] 
+[21:37:05] Filterscripts
+[21:37:05] ---------------
+[21:37:05]   Loaded 0 filterscripts.
+
+[21:37:05] Подключение к базе данных metalife успешно
+[21:37:05] 
+----------------------------------
+[21:37:05]  MetaLife Online
+[21:37:05] ----------------------------------
+
+[21:37:05] Number of vehicle models: 1
+[21:37:58] [connection] incoming connection: 127.0.0.1:54135 id: 0
+[21:37:58] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[21:38:16] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:46:13] weburl = "www.sa-mp.com"  (string)
+[21:46:13] 
+[21:46:13] Server Plugins
+[21:46:13] --------------
+[21:46:13]  Loading plugin: mysql
+[21:46:13]  >> plugin.mysql: R41-4 successfully loaded.
+[21:46:13]   Loaded.
+[21:46:13]  Loaded 1 plugins.
+
+[21:46:13] 
+[21:46:13] Filterscripts
+[21:46:13] ---------------
+[21:46:13]   Loaded 0 filterscripts.
+
+[21:46:13] Подключение к базе данных metalife успешно
+[21:46:13] 
+----------------------------------
+[21:46:13]  MetaLife Online
+[21:46:13] ----------------------------------
+
+[21:46:13] Number of vehicle models: 1
+[21:46:39] [connection] incoming connection: 127.0.0.1:52999 id: 0
+[21:46:39] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[21:47:37] RCON (In-Game): Player #0 (Tommi_Escobar) has logged in.
+[21:47:44] RCON (In-Game): Player [Tommi_Escobar] sent command: echo HI 
+[21:47:44] HI 
+[21:48:21] RCON (In-Game): Player [Tommi_Escobar] sent command: kick 0 
+[21:48:21] Tommi_Escobar <#0 - 127.0.0.1> has been kicked.
+[21:48:21] [part] Tommi_Escobar has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:06:11] weburl = "www.sa-mp.com"  (string)
+[22:06:11] 
+[22:06:11] Server Plugins
+[22:06:11] --------------
+[22:06:11]  Loading plugin: mysql
+[22:06:11]  >> plugin.mysql: R41-4 successfully loaded.
+[22:06:11]   Loaded.
+[22:06:11]  Loaded 1 plugins.
+
+[22:06:11] 
+[22:06:11] Filterscripts
+[22:06:11] ---------------
+[22:06:11]   Loaded 0 filterscripts.
+
+[22:06:11] Подключение к базе данных metalife успешно
+[22:06:11] 
+----------------------------------
+[22:06:11]  MetaLife Online
+[22:06:11] ----------------------------------
+
+[22:06:11] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:08:31] weburl = "www.sa-mp.com"  (string)
+[22:08:32] 
+[22:08:32] Server Plugins
+[22:08:32] --------------
+[22:08:32]  Loading plugin: mysql
+[22:08:32]  >> plugin.mysql: R41-4 successfully loaded.
+[22:08:32]   Loaded.
+[22:08:32]  Loaded 1 plugins.
+
+[22:08:32] 
+[22:08:32] Filterscripts
+[22:08:32] ---------------
+[22:08:32]   Loaded 0 filterscripts.
+
+[22:08:32] Подключение к базе данных metalife успешно
+[22:08:32] 
+----------------------------------
+[22:08:32]  MetaLife Online
+[22:08:32] ----------------------------------
+
+[22:08:32] Number of vehicle models: 1
+[22:08:38] [connection] incoming connection: 127.0.0.1:58614 id: 0
+[22:08:39] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[22:08:54] [part] Tommi_Escobar has left the server (0:1)
+[22:09:19] [connection] incoming connection: 127.0.0.1:55954 id: 0
+[22:09:19] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[22:09:31] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:24:39] weburl = "www.sa-mp.com"  (string)
+[12:24:39] 
+[12:24:39] Server Plugins
+[12:24:39] --------------
+[12:24:39]  Loading plugin: mysql
+[12:24:39]  >> plugin.mysql: R41-4 successfully loaded.
+[12:24:39]   Loaded.
+[12:24:39]  Loaded 1 plugins.
+
+[12:24:39] 
+[12:24:39] Filterscripts
+[12:24:39] ---------------
+[12:24:39]   Loaded 0 filterscripts.
+
+[12:24:47] Подключение к базе данных metalife не удалось.
+[12:24:47] 
+----------------------------------
+[12:24:47]  MetaLife Online
+[12:24:47] ----------------------------------
+
+[12:24:47] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:25:05] weburl = "www.sa-mp.com"  (string)
+[12:25:05] 
+[12:25:05] Server Plugins
+[12:25:05] --------------
+[12:25:05]  Loading plugin: mysql
+[12:25:05]  >> plugin.mysql: R41-4 successfully loaded.
+[12:25:05]   Loaded.
+[12:25:05]  Loaded 1 plugins.
+
+[12:25:05] 
+[12:25:05] Filterscripts
+[12:25:05] ---------------
+[12:25:05]   Loaded 0 filterscripts.
+
+[12:25:05] Подключение к базе данных metalife успешно
+[12:25:05] 
+----------------------------------
+[12:25:05]  MetaLife Online
+[12:25:05] ----------------------------------
+
+[12:25:05] Number of vehicle models: 1
+[12:25:38] [connection] incoming connection: 127.0.0.1:54338 id: 0
+[12:25:39] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[12:26:23] [chat] [Tommi_Escobar]: a
+[12:26:49] [part] Tommi_Escobar has left the server (0:1)
+[12:28:12] [connection] incoming connection: 127.0.0.1:54544 id: 0
+[12:28:13] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[12:28:55] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:37:00] weburl = "www.sa-mp.com"  (string)
+[12:37:00] 
+[12:37:00] Server Plugins
+[12:37:00] --------------
+[12:37:00]  Loading plugin: mysql
+[12:37:00]  >> plugin.mysql: R41-4 successfully loaded.
+[12:37:00]   Loaded.
+[12:37:00]  Loaded 1 plugins.
+
+[12:37:00] 
+[12:37:00] Filterscripts
+[12:37:00] ---------------
+[12:37:00]   Loaded 0 filterscripts.
+
+[12:37:00] Подключение к базе данных metalife успешно
+[12:37:00] 
+----------------------------------
+[12:37:00]  MetaLife Online
+[12:37:00] ----------------------------------
+
+[12:37:00] Number of vehicle models: 1
+[12:37:26] [connection] incoming connection: 127.0.0.1:49226 id: 0
+[12:37:27] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[12:44:44] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:49:16] weburl = "www.sa-mp.com"  (string)
+[12:49:16] 
+[12:49:16] Server Plugins
+[12:49:16] --------------
+[12:49:16]  Loading plugin: mysql
+[12:49:16]  >> plugin.mysql: R41-4 successfully loaded.
+[12:49:16]   Loaded.
+[12:49:16]  Loaded 1 plugins.
+
+[12:49:16] 
+[12:49:16] Filterscripts
+[12:49:16] ---------------
+[12:49:16]   Loaded 0 filterscripts.
+
+[12:49:16] Подключение к базе данных metalife успешно
+[12:49:16] 
+----------------------------------
+[12:49:16]  MetaLife Online
+[12:49:16] ----------------------------------
+
+[12:49:16] Number of vehicle models: 1
+[12:50:07] [connection] incoming connection: 127.0.0.1:64864 id: 0
+[12:50:07] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[12:55:49] [chat] [Tommi_Escobar]: cerf 
+[12:55:57] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:57:39] weburl = "www.sa-mp.com"  (string)
+[12:57:39] 
+[12:57:39] Server Plugins
+[12:57:39] --------------
+[12:57:39]  Loading plugin: mysql
+[12:57:39]  >> plugin.mysql: R41-4 successfully loaded.
+[12:57:39]   Loaded.
+[12:57:39]  Loaded 1 plugins.
+
+[12:57:39] 
+[12:57:39] Filterscripts
+[12:57:39] ---------------
+[12:57:39]   Loaded 0 filterscripts.
+
+[12:57:39] Подключение к базе данных metalife успешно
+[12:57:39] 
+----------------------------------
+[12:57:39]  MetaLife Online
+[12:57:39] ----------------------------------
+
+[12:57:39] Number of vehicle models: 1
+[12:58:15] [connection] incoming connection: 127.0.0.1:60759 id: 0
+[12:58:15] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[12:59:46] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:00:42] weburl = "www.sa-mp.com"  (string)
+[13:00:42] 
+[13:00:42] Server Plugins
+[13:00:42] --------------
+[13:00:42]  Loading plugin: mysql
+[13:00:42]  >> plugin.mysql: R41-4 successfully loaded.
+[13:00:42]   Loaded.
+[13:00:42]  Loaded 1 plugins.
+
+[13:00:42] 
+[13:00:42] Filterscripts
+[13:00:42] ---------------
+[13:00:42]   Loaded 0 filterscripts.
+
+[13:00:42] Подключение к базе данных metalife успешно
+[13:00:42] 
+----------------------------------
+[13:00:42]  MetaLife Online
+[13:00:42] ----------------------------------
+
+[13:00:42] Number of vehicle models: 1
+[13:01:09] [connection] incoming connection: 127.0.0.1:62378 id: 0
+[13:01:09] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[13:02:36] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:07:02] weburl = "www.sa-mp.com"  (string)
+[13:07:02] 
+[13:07:02] Server Plugins
+[13:07:02] --------------
+[13:07:02]  Loading plugin: mysql
+[13:07:02]  >> plugin.mysql: R41-4 successfully loaded.
+[13:07:02]   Loaded.
+[13:07:02]  Loaded 1 plugins.
+
+[13:07:02] 
+[13:07:02] Filterscripts
+[13:07:02] ---------------
+[13:07:02]   Loaded 0 filterscripts.
+
+[13:07:02] Подключение к базе данных metalife успешно
+[13:07:02] 
+----------------------------------
+[13:07:02]  MetaLife Online
+[13:07:02] ----------------------------------
+
+[13:07:02] Number of vehicle models: 1
+[13:07:28] [connection] incoming connection: 127.0.0.1:55805 id: 0
+[13:07:29] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[13:10:00] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:16:35] weburl = "www.sa-mp.com"  (string)
+[13:16:35] 
+[13:16:35] Server Plugins
+[13:16:35] --------------
+[13:16:35]  Loading plugin: mysql
+[13:16:35]  >> plugin.mysql: R41-4 successfully loaded.
+[13:16:35]   Loaded.
+[13:16:35]  Loaded 1 plugins.
+
+[13:16:35] 
+[13:16:35] Filterscripts
+[13:16:35] ---------------
+[13:16:35]   Loaded 0 filterscripts.
+
+[13:16:35] Подключение к базе данных metalife успешно
+[13:16:35] 
+----------------------------------
+[13:16:35]  MetaLife Online
+[13:16:35] ----------------------------------
+
+[13:16:35] Number of vehicle models: 1
+[13:17:04] [connection] incoming connection: 127.0.0.1:57187 id: 0
+[13:17:05] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[13:17:50] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:20:51] weburl = "www.sa-mp.com"  (string)
+[13:20:51] 
+[13:20:51] Server Plugins
+[13:20:51] --------------
+[13:20:51]  Loading plugin: mysql
+[13:20:51]  >> plugin.mysql: R41-4 successfully loaded.
+[13:20:51]   Loaded.
+[13:20:51]  Loaded 1 plugins.
+
+[13:20:51] 
+[13:20:51] Filterscripts
+[13:20:51] ---------------
+[13:20:51]   Loaded 0 filterscripts.
+
+[13:20:51] Подключение к базе данных metalife успешно
+[13:20:51] 
+----------------------------------
+[13:20:51]  MetaLife Online
+[13:20:51] ----------------------------------
+
+[13:20:51] Number of vehicle models: 1
+[13:21:21] [connection] incoming connection: 127.0.0.1:51729 id: 0
+[13:21:21] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[13:21:37] [part] Tommi_Escobar has left the server (0:1)
+[13:21:58] [connection] incoming connection: 127.0.0.1:55727 id: 0
+[13:21:58] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[13:22:19] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:24:44] weburl = "www.sa-mp.com"  (string)
+[13:24:44] 
+[13:24:44] Server Plugins
+[13:24:44] --------------
+[13:24:44]  Loading plugin: mysql
+[13:24:44]  >> plugin.mysql: R41-4 successfully loaded.
+[13:24:44]   Loaded.
+[13:24:44]  Loaded 1 plugins.
+
+[13:24:44] 
+[13:24:44] Filterscripts
+[13:24:44] ---------------
+[13:24:44]   Loaded 0 filterscripts.
+
+[13:24:44] Подключение к базе данных metalife успешно
+[13:24:44] 
+----------------------------------
+[13:24:44]  MetaLife Online
+[13:24:44] ----------------------------------
+
+[13:24:44] Number of vehicle models: 1
+[13:25:06] [connection] incoming connection: 127.0.0.1:63266 id: 0
+[13:25:07] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[13:25:37] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:00:02] weburl = "www.sa-mp.com"  (string)
+[19:00:02] 
+[19:00:02] Server Plugins
+[19:00:02] --------------
+[19:00:02]  Loading plugin: mysql
+[19:00:02]   Failed.
+[19:00:02]  Loaded 0 plugins.
+
+[19:00:02] 
+[19:00:02] Filterscripts
+[19:00:02] ---------------
+[19:00:02]   Loaded 0 filterscripts.
+
+[19:00:02] Script[gamemodes/MetaLife.amx]: Run time error 19: "File or function is not found"
+[19:00:02] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:00:26] weburl = "www.sa-mp.com"  (string)
+[19:00:26] 
+[19:00:26] Server Plugins
+[19:00:26] --------------
+[19:00:26]  Loading plugin: mysql
+[19:00:26]   Failed.
+[19:00:26]  Loaded 0 plugins.
+
+[19:00:26] 
+[19:00:26] Filterscripts
+[19:00:26] ---------------
+[19:00:26]   Loaded 0 filterscripts.
+
+[19:00:26] Script[gamemodes/MetaLife.amx]: Run time error 19: "File or function is not found"
+[19:00:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:04:10] weburl = "www.sa-mp.com"  (string)
+[19:04:10] 
+[19:04:10] Server Plugins
+[19:04:10] --------------
+[19:04:10]  Loading plugin: mysql
+[19:04:10]   Failed.
+[19:04:10]  Loaded 0 plugins.
+
+[19:04:10] 
+[19:04:10] Filterscripts
+[19:04:10] ---------------
+[19:04:10]   Loaded 0 filterscripts.
+
+[19:04:10] Script[gamemodes/MetaLife.amx]: Run time error 19: "File or function is not found"
+[19:04:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:28:26] weburl = "www.sa-mp.com"  (string)
+[19:28:26] 
+[19:28:26] Server Plugins
+[19:28:26] --------------
+[19:28:26]  Loading plugin: mysql
+[19:28:27]   Failed.
+[19:28:27]  Loaded 0 plugins.
+
+[19:28:27] 
+[19:28:27] Filterscripts
+[19:28:27] ---------------
+[19:28:27]   Loaded 0 filterscripts.
+
+[19:28:27] Script[gamemodes/MetaLife.amx]: Run time error 19: "File or function is not found"
+[19:28:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:30:02] weburl = "www.sa-mp.com"  (string)
+[19:30:02] 
+[19:30:02] Server Plugins
+[19:30:02] --------------
+[19:30:02]  Loading plugin: mysql
+[19:30:02]   Failed.
+[19:30:02]  Loaded 0 plugins.
+
+[19:30:02] 
+[19:30:02] Filterscripts
+[19:30:02] ---------------
+[19:30:02]   Loaded 0 filterscripts.
+
+[19:30:02] Script[gamemodes/MetaLife.amx]: Run time error 19: "File or function is not found"
+[19:30:02] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:33:31] weburl = "www.sa-mp.com"  (string)
+[19:33:31] 
+[19:33:31] Server Plugins
+[19:33:31] --------------
+[19:33:31]  Loading plugin: mysql
+[19:33:31]   Failed.
+[19:33:31]  Loaded 0 plugins.
+
+[19:33:31] 
+[19:33:31] Filterscripts
+[19:33:31] ---------------
+[19:33:31]   Loaded 0 filterscripts.
+
+[19:33:31] Script[gamemodes/MetaLife.amx]: Run time error 19: "File or function is not found"
+[19:33:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:25] weburl = "www.sa-mp.com"  (string)
+[19:41:25] 
+[19:41:25] Server Plugins
+[19:41:25] --------------
+[19:41:25]  Loading plugin: mysql
+[19:41:25]   Failed.
+[19:41:25]  Loaded 0 plugins.
+
+[19:41:25] 
+[19:41:25] Filterscripts
+[19:41:25] ---------------
+[19:41:25]   Loaded 0 filterscripts.
+
+[19:41:25] Script[gamemodes/MetaLife.amx]: Run time error 19: "File or function is not found"
+[19:41:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:47:08] weburl = "www.sa-mp.com"  (string)
+[19:47:08] 
+[19:47:08] Server Plugins
+[19:47:08] --------------
+[19:47:08]  Loading plugin: mysql
+[19:47:08]   Failed.
+[19:47:08]  Loaded 0 plugins.
+
+[19:47:08] 
+[19:47:08] Filterscripts
+[19:47:08] ---------------
+[19:47:08]   Loaded 0 filterscripts.
+
+[19:47:08] 
+----------------------------------
+[19:47:08]  Blank Gamemode by your name here
+[19:47:08] ----------------------------------
+
+[19:47:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:11:12] weburl = "www.sa-mp.com"  (string)
+[20:11:12] 
+[20:11:12] Server Plugins
+[20:11:12] --------------
+[20:11:12]  Loading plugin: mysql
+[20:11:12]   Failed.
+[20:11:12]  Loaded 0 plugins.
+
+[20:11:12] 
+[20:11:12] Filterscripts
+[20:11:12] ---------------
+[20:11:12]   Loaded 0 filterscripts.
+
+[20:11:12] Script[gamemodes/MetaLife.amx]: Run time error 19: "File or function is not found"
+[20:11:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:11:36] weburl = "www.sa-mp.com"  (string)
+[20:11:36] 
+[20:11:36] Server Plugins
+[20:11:36] --------------
+[20:11:36]  Loading plugin: mysql
+[20:11:36]   Failed.
+[20:11:36]  Loaded 0 plugins.
+
+[20:11:36] 
+[20:11:36] Filterscripts
+[20:11:36] ---------------
+[20:11:36]   Loaded 0 filterscripts.
+
+[20:11:36] 
+----------------------------------
+[20:11:36]  Blank Gamemode by your name here
+[20:11:36] ----------------------------------
+
+[20:11:36] Number of vehicle models: 0
+[20:12:12] [connection] incoming connection: 127.0.0.1:53122 id: 0
+[20:12:12] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[20:12:30] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:45:55] weburl = "www.sa-mp.com"  (string)
+[11:45:55] 
+[11:45:55] Server Plugins
+[11:45:55] --------------
+[11:45:55]  Loading plugin: mysql
+[11:45:55]  >> plugin.mysql: R41-4 successfully loaded.
+[11:45:55]   Loaded.
+[11:45:55]  Loaded 1 plugins.
+
+[11:45:55] 
+[11:45:55] Filterscripts
+[11:45:55] ---------------
+[11:45:55]   Loaded 0 filterscripts.
+
+[11:45:55] 
+----------------------------------
+[11:45:55]  Blank Gamemode by your name here
+[11:45:55] ----------------------------------
+
+[11:45:55] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:49:30] weburl = "www.sa-mp.com"  (string)
+[11:49:30] 
+[11:49:30] Server Plugins
+[11:49:30] --------------
+[11:49:30]  Loading plugin: mysql
+[11:49:30]  >> plugin.mysql: R41-4 successfully loaded.
+[11:49:30]   Loaded.
+[11:49:30]  Loaded 1 plugins.
+
+[11:49:30] 
+[11:49:30] Filterscripts
+[11:49:30] ---------------
+[11:49:30]   Loaded 0 filterscripts.
+
+[11:49:30] Подключение к базе данных MetaLife успешно
+[11:49:30] 
+----------------------------------
+[11:49:30]  MetaLife Online
+[11:49:30] ----------------------------------
+
+[11:49:30] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:27:36] weburl = "www.sa-mp.com"  (string)
+[10:27:36] 
+[10:27:36] Server Plugins
+[10:27:36] --------------
+[10:27:36]  Loading plugin: mysql
+[10:27:37]  >> plugin.mysql: R41-4 successfully loaded.
+[10:27:37]   Loaded.
+[10:27:37]  Loaded 1 plugins.
+
+[10:27:37] 
+[10:27:37] Filterscripts
+[10:27:37] ---------------
+[10:27:37]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:28:18] weburl = "www.sa-mp.com"  (string)
+[10:28:18] 
+[10:28:18] Server Plugins
+[10:28:18] --------------
+[10:28:18]  Loading plugin: mysql
+[10:28:18]  >> plugin.mysql: R41-4 successfully loaded.
+[10:28:18]   Loaded.
+[10:28:18]  Loaded 1 plugins.
+
+[10:28:18] 
+[10:28:18] Filterscripts
+[10:28:18] ---------------
+[10:28:18]   Loaded 0 filterscripts.
+
+[10:28:18] Подключение к базе данных MetaLife успешно
+[10:28:18] 
+----------------------------------
+[10:28:18]  MetaLife Online
+[10:28:18] ----------------------------------
+
+[10:28:18] Number of vehicle models: 1
+[10:30:07] [connection] incoming connection: 127.0.0.1:52716 id: 0
+[10:30:07] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[10:30:44] [chat] [Tommi_Escobar]: f 
+[10:30:46] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:09:11] weburl = "www.sa-mp.com"  (string)
+[11:09:11] 
+[11:09:11] Server Plugins
+[11:09:11] --------------
+[11:09:11]  Loading plugin: mysql
+[11:09:11]  >> plugin.mysql: R41-4 successfully loaded.
+[11:09:11]   Loaded.
+[11:09:11]  Loaded 1 plugins.
+
+[11:09:11] 
+[11:09:11] Filterscripts
+[11:09:11] ---------------
+[11:09:11]   Loaded 0 filterscripts.
+
+[11:09:11] Подключение к базе данных MetaLife успешно
+[11:09:11] 
+----------------------------------
+[11:09:11]  MetaLife Online
+[11:09:11] ----------------------------------
+
+[11:09:11] Number of vehicle models: 1
+[11:10:44] [connection] incoming connection: 127.0.0.1:63364 id: 0
+[11:10:44] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[11:11:19] [chat] [Tommi_Escobar]: fly
+[11:14:42] [part] Tommi_Escobar has left the server (0:1)
+[11:16:12] [connection] incoming connection: 127.0.0.1:58153 id: 0
+[11:16:13] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[11:16:38] [part] Tommi_Escobar has left the server (0:1)
+[11:20:02] [connection] incoming connection: 127.0.0.1:63388 id: 0
+[11:20:02] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[11:22:01] [part] Tommi_Escobar has left the server (0:1)
+[11:24:15] [connection] incoming connection: 127.0.0.1:64589 id: 0
+[11:24:16] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[11:26:14] [part] Tommi_Escobar has left the server (0:1)
+[11:28:01] [connection] incoming connection: 127.0.0.1:64173 id: 0
+[11:28:01] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[11:29:26] [part] Tommi_Escobar has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:34:23] weburl = "www.sa-mp.com"  (string)
+[11:34:23] 
+[11:34:23] Server Plugins
+[11:34:23] --------------
+[11:34:23]  Loading plugin: mysql
+[11:34:23]  >> plugin.mysql: R41-4 successfully loaded.
+[11:34:23]   Loaded.
+[11:34:23]  Loaded 1 plugins.
+
+[11:34:23] 
+[11:34:23] Filterscripts
+[11:34:23] ---------------
+[11:34:23]   Loaded 0 filterscripts.
+
+[11:34:23] Подключение к базе данных MetaLife успешно
+[11:34:23] 
+----------------------------------
+[11:34:23]  MetaLife Online
+[11:34:23] ----------------------------------
+
+[11:34:23] Number of vehicle models: 1
+[11:35:03] [connection] incoming connection: 127.0.0.1:51848 id: 0
+[11:35:04] [join] Tommi_Escobar has joined the server (0:127.0.0.1)
+[11:37:11] [death] Tommi_Escobar died 255
+[11:37:14] [death] Tommi_Escobar died 54
+[11:37:56] [part] Tommi_Escobar has left the server (0:1)
